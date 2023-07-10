@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsenii</h1>
-<h3 align="center">A frontend developer from Ukraine.</h3>
+<h3 align="center">A frontend developer from Poland.</h3>
 
 - 🔭 I’m currently working on **a lot of different things to improve myself.**
 
