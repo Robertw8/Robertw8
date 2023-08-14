@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **oniedgaf@gmail.com**
 
-- 👾 My portfolio: **robertw8.github.io/portfolio/**
+- **<a href="https://robertw8.github.io/portfolio/">👾 My portfolio</a>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
