@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects, where I'd be useful.**
 
-- 📫 How to reach me: **oniedgaf@gmail.com**
+- 📫 How to reach me: **arsenii.brovchuk@gmail.com**
 
 - <a href="https://robertw8.github.io/portfolio/">👾 My portfolio</a>
 
