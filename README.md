@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a lot of different things to improve myself.**
 
-- 🌱 I’m currently learning **React/Redux and Node.js.**
+- 🌱 I’m currently learning **everything about front-end development**
 
 - 👯 I’m looking to collaborate on **interesting projects, where I'd be useful.**
 
@@ -30,4 +30,5 @@
   <img src="https://img.icons8.com/fluency/48/vite.png" alt="vite" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/webpack.png" alt="webpack" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img w src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" idth="40" height="40"/>
 </div>
