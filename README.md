@@ -1,11 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Arsenii</h1>
 <h3 align="center">A frontend developer based in Poland.</h3>
 
-- 🔭 I’m currently working on **a lot of different things to improve myself.**
-
-- 🌱 I’m currently learning **everything about front-end development**
-
-- 👯 I’m looking to collaborate on **interesting projects, where I'd be useful.**
+- 🔭 I’m currently working on **a lot of different things.**
 
 - 📫 How to reach me: **arsenii.brovchuk@gmail.com**
 
