@@ -9,7 +9,12 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arsenii-brovchuk-9a5159248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsenii-brovchuk-9a5159248" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arsenii-brovchuk-9a5159248" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsenii-brovchuk-9a5159248" height="40" width="40" />
+</a>
+  <a href="https://t.me/oniedgaf" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">My stack:</h3>
