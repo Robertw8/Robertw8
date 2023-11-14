@@ -41,6 +41,7 @@
     <h4>Backend & DB:</h4>
     <img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"  width="40" height="40"/>
+    <img  src="https://img.icons8.com/external-outline-juicy-fish/60/external-sql-coding-and-development-outline-outline-juicy-fish.png" alt="external-sql-coding-and-development-outline-outline-juicy-fish" width="40" height="40"/>
   </div>
   <div>
     <h4>Misc:</h4>
