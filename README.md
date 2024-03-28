@@ -67,6 +67,8 @@
     <img width="12"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/120px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/>
     <img width="12"/>
+    <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase" width="40" height="40"/>
+    <img width="12"/>
     <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"  width="40" height="40"/>
   </div>
   <div>
