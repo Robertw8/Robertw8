@@ -2,8 +2,6 @@
 <h3 align="center">A frontend developer based in Poland.</h3>
 
 - 🔭 Working on a lot of different things and learning everything I can get my hands on.
-  
-- ⚡ Fun fact: I have experience in backend development using С#/.NET Framework, Node.js, etc. But I prefer frontend only ❤️. 
 
 - 📫 How to reach me: **arsenii.brovchuk@gmail.com**
 
