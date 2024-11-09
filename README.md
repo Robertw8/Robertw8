@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Arsenii</h1>
 <h3 align="center">A frontend developer based in Poland.</h3>
 
-- 🔭 Working at Artis school of Music, where I develop and maintain a platform using React, MobX, Firebase and ant-design.
-
 - 🔭 Developing SafeKid mobile app using React Native and being a frontend teamleader
 
 - 🚀 Learning C# and ASP.NET to become a full-stack developer
