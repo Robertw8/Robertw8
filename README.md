@@ -20,8 +20,6 @@
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/>
       <img width="12"/>
       <img src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2" width="40" height="40"/>
-      <img width="12"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" alt="sql" width="40" height="40"/>
     </div>
     <div>
       <h4>Frontend tools:</h4>
