@@ -1,15 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Arsenii</h1>
-<h3 align="center">A frontend developer based in Poland.</h3>
-
-- 🔭 Developing SafeKid mobile app using React Native and being a frontend teamleader
-
-- 🚀 Learning C# and ASP.NET to become a full-stack developer
-
-- 🤔 Learning Vue.js, just for fun (and Angular, but I'm getting serious here!)
-
-- 📫 How to reach me: **arsenii.brovchuk@gmail.com**
-
-- <a href="https://robertw8-portfolio.netlify.app">👾 My portfolio</a>
+🥷🏻
 
 <h3>Contact me:</h3>
 <p align="left">
